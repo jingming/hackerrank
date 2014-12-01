@@ -19,7 +19,6 @@ public class Solution {
 
         Scanner scanner = new Scanner(System.in);
 
-
         Map<Integer, Integer> aMap = populateMap(scanner);
         Map<Integer, Integer> bMap = populateMap(scanner);
 
